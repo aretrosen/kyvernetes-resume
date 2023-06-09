@@ -7,7 +7,7 @@ A batteries included LaTeX Resume Template specifically designed for software de
 - **Dynamic Heading:** You can also add your job title using the \jobtitle command, and the heading will adjust accordingly to display it prominently.
 - **Intuitive:** Instead of creating new separate commands, I reused the section and subsection command, so that you can write a resume *blazingly fast*. Even though I am overriding those commands, the PDF generated will still have a table of content, for easier navigation in case you are planning to create a large CV.
 
-## Usage:
+## Usage
 ```tex
 \documentclass[]{kyvernitis-resume}
 
@@ -46,3 +46,6 @@ A batteries included LaTeX Resume Template specifically designed for software de
 \end{document}
 ```
 That's it! This is as easy as it gets. Additionally, you don't have to think of margins, formtting etc. every time, and don't have to reach for your mouse for the same. Just write it, generate a pdf, and you are done!
+
+## How to use this template in Overleaf?
+Just download the zip file, and import the zip file in your Overleaf account. And it's done!
