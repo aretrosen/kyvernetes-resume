@@ -7,6 +7,10 @@ A batteries included LaTeX Resume Template specifically designed for software de
 - **Dynamic Heading:** You can also add your job title using the \jobtitle command, and the heading will adjust accordingly to display it prominently.
 - **Intuitive:** Instead of creating new separate commands, I reused the section and subsection command, so that you can write a resume *blazingly fast*. Even though I am overriding those commands, the PDF generated will still have a table of content, for easier navigation in case you are planning to create a large CV.
 
+## Example
+![image](https://github.com/aretrosen/kyvernetes-resume/assets/125266845/c67e3edc-907f-46da-91fb-6dfc191ca00e)
+
+
 ## Usage
 ```tex
 \documentclass[]{kyvernitis-resume}
