@@ -79,11 +79,12 @@
     {\faFacebookF}\hspace{0.5em}#1}
 }
 \newcommand{\website}[1]{
-    \href{https://#1}{\textcolor{black}
+    \href{tel:#1}{\textcolor{black}
     {\faGlobeAmericas}\hspace{0.5em}#1}
 }
 \newcommand{\phone}[1]{
-    \textcolor{black}{\faPhone*}\hspace{0.5em}#1
+    \href{mailto:#1}{\textcolor{black}
+    {\faPhone*}\hspace{0.5em}#1}
 }
 \newcommand{\nationality}[1]{
     \textcolor{black}{\faFlagUsa}\hspace{0.5em}#1
